@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    font-weight: bold;
+    font-size: 5em;
+}
+
+.input {
+    height: 50px;
+    width: 200px;
+}
