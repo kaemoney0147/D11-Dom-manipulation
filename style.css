@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     text-transform: capitalize;
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: 5em;
 }
@@ -9,4 +9,8 @@ h1 {
 .input {
     height: 50px;
     width: 200px;
+}
+
+table tr td {
+    border: 3px solid black;
 }
